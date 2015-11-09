@@ -1,6 +1,5 @@
 package gui.controller;
 
-
 import gui.view.GUIFrame;
 
 /**
